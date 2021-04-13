@@ -1,0 +1,25 @@
+HCI Project 2
+
+List of 5 example car dashboards:
+1.	2014 Lexus is 
+2.	BMW concept 
+3.	Honda Civic 
+4.	Ford
+ 
+5.	Mazda
+ 
+Pros vs Cons of current Designs
+1. According to the paper Usability of Car Dashboard Displays for Elder Drivers published in May 2011, Elderly drivers and young drivers gave primary importance to the speedometer and the fuel gauge. The tachometer was chosen as the least important instrument. Both the groups choose the odometer (used to show the distance that the vehicle has travelled) and the tachometer as the most difficult to find quickly. 
+2. Engine temperature gauge is mostly used for long distance travel. This feature is useful to keep track of the engine temperature, when the engine is running for long distances at high speeds, Keeping the temperature in check allows the driver to make a decision to stop the car and let it cool down
+3. Some cars which have a display on the dashboard show errors that occupy the entire screen and do not fade away. This is a problem as the user will have to reset the display. This reset clears the warning sign completely. 
+4. On the ford dashboard we can see that there are a few buttons on the dashboard itself, if these buttons are required while the driver is driving the car it may cause inconvinies to the driver as it would require short drivers to lean forward towards the dashboard to press the buttons.
+5. Most of the buttons don’t have names on them if a new person is driving the car it would cause an inconvenience for them. As the some of the symbols are not standard, and some symbols are used in more than one use-case scenario.
+
+Common features and other more rare uses of a car dashboards.
+1.  Gauges :
+Most common gauges include the speedometer , tachometer , fuel gauge , temperature gauge, and odometer.  Generally located right in front of the driver. These are considered essential and are required to drive the vehicle safely
+2. Warning Lights:
+These are used to identify potential problems with the vehicle. Some of the warning lights are for simple problems while some are more serious. They could be indicating various issues such as oil change , Tire pressure, engine problems, battery , coolant , fuel , breaks, seat belt, door and air bags. Additionally, it could also be used to illuminate active functions such as turning on turn signals or hazard lights, A/C , Parking break. Climate control , media controls
+
+List the controls that the user interacts with the car dashboards.
+
